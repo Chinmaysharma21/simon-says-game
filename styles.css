@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+}
+
+.box {
+    border: 4px solid black;
+    margin: 10px;
+    width: 200px;
+    height: 200px;
+    border-radius: 20%;
+}
+.all-box {
+    display: flex;
+    justify-content: center;
+}
+
+.cyan {
+    background-color: aquamarine;
+}
+.green {
+    background-color:chartreuse ;
+}
+.brown {
+    background-color:chocolate ;
+}
+.purple {
+    background-color:violet ;
+}
+
+.flash {
+    background-color: white;
+}
+
+span {
+    font-size: 22px;
+}
